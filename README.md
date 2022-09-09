@@ -10,6 +10,8 @@ Disciplina Inf494 2022 - Material Prof. Ricardo Ferreira
 
 ### Vídeos
 
+* [Revisão de Python e lista, dicionário, conjunto, funções](https://www.youtube.com/playlist?list=PLcvOyD_LMr6k4QDC3gTIn5XxB0fyNq89_)
+
 ### Atividade Assíncrona
 
 ### Questionários
