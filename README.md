@@ -14,6 +14,8 @@ Disciplina Inf494 2022 - Material Prof. Ricardo Ferreira
 
 ### Atividade Assíncrona
 
+* Prazo de Envio - 15/9/22 - [Primeira Atividade: conhecendo o Colab](https://colab.research.google.com/drive/1dci5GOtTuFzD3SUgdsn6FKq8KpsdiRmp?usp=sharing) - Clique [Aqui para enviar](https://forms.gle/iRELZ8ZVK346v5PU6)
+
 ### Questionários
 
 
