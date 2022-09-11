@@ -19,6 +19,8 @@ Disciplina Inf494 2022 - Material Prof. Ricardo Ferreira
 
 ### Questionários
 
+* [Lista, conjuntos, Dicionários e Funções](https://forms.gle/2NVgwqyJ5GJrZdWD9) Enviar até dia 15/9/22
+
 
 ## Aula 2
 
