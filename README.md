@@ -20,7 +20,7 @@ Disciplina Inf494 2022 - Material Prof. Ricardo Ferreira
 ### Questionários
 
 * [Lista, conjuntos, Dicionários e Funções](https://forms.gle/2NVgwqyJ5GJrZdWD9) Enviar até dia 15/9/22
-
+* [Numpy](https://forms.gle/ffVVEtrvs9oG6YQ67) Enviar até dia 15/9/22, assista a [aula assíncrona de Numpy](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mEmqC6rOqyj8AEwWqGC5xs)
 
 ## Aula 2
 
