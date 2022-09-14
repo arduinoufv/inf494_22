@@ -30,3 +30,6 @@ Disciplina Inf494 2022 - Material Prof. Ricardo Ferreira
 ### Slides
 * [Panda e Arquivos](https://docs.google.com/presentation/d/1I63gxMrc6Ou92q1HBh0tOncDnc7PqzAGhnGFXAR7gow/edit?usp=sharing)
 * [Imagens](https://docs.google.com/presentation/d/11FY08xMHfddQufjZ13BCNkEY_jKA2CYNPAH0Sy5EI7w/edit?usp=sharing)
+
+### Videos
+* [Panda e Arquivos - Playlist](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lbrWRORmLCOfp3FvFLZmgE)
