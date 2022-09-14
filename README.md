@@ -13,6 +13,9 @@ Disciplina Inf494 2022 - Material Prof. Ricardo Ferreira
 * [Aula 1 - Revisão de Python e lista, dicionário, conjunto, funções](https://www.youtube.com/playlist?list=PLcvOyD_LMr6k4QDC3gTIn5XxB0fyNq89_)
 * [Material de apoio para revisão e estudo de Python voltado para Ciência de Dados](https://www.youtube.com/playlist?list=PLcvOyD_LMr6ncgoZJsCXG_BPRnsz3nVvH) - Existe muito material, aqui você encontra algumas sugestões com possibilidade de interação
 
+### Comentários das atividades 
+
+[2 questionários (1.5 pontos) e o Colab (2.5 pontos)](https://youtu.be/L6x1LXfDOCg)
 ### Atividade Assíncrona
 
 * Prazo de Envio - 15/9/22 - [Primeira Atividade: conhecendo o Colab](https://colab.research.google.com/drive/1dci5GOtTuFzD3SUgdsn6FKq8KpsdiRmp?usp=sharing) - Clique [Aqui para enviar](https://forms.gle/iRELZ8ZVK346v5PU6)
