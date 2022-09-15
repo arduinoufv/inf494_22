@@ -18,12 +18,12 @@ Disciplina Inf494 2022 - Material Prof. Ricardo Ferreira
 [2 questionários (1.5 pontos) e o Colab (2.5 pontos)](https://youtu.be/L6x1LXfDOCg)
 ### Atividade Assíncrona
 
-* Prazo de Envio - 15/9/22 - [Primeira Atividade: conhecendo o Colab](https://colab.research.google.com/drive/1dci5GOtTuFzD3SUgdsn6FKq8KpsdiRmp?usp=sharing) - Clique [Aqui para enviar](https://forms.gle/iRELZ8ZVK346v5PU6)
+* Prazo de Envio - 16/9/22 - [Primeira Atividade: conhecendo o Colab](https://colab.research.google.com/drive/1dci5GOtTuFzD3SUgdsn6FKq8KpsdiRmp?usp=sharing) - Clique [Aqui para enviar](https://forms.gle/iRELZ8ZVK346v5PU6)
 
 ### Questionários
 
-* [Lista, conjuntos, Dicionários e Funções](https://forms.gle/2NVgwqyJ5GJrZdWD9) Enviar até dia 15/9/22
-* [Numpy](https://forms.gle/ffVVEtrvs9oG6YQ67) Enviar até dia 15/9/22, assista a [aula assíncrona de Numpy](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mEmqC6rOqyj8AEwWqGC5xs)
+* [Lista, conjuntos, Dicionários e Funções](https://forms.gle/2NVgwqyJ5GJrZdWD9) Enviar até dia 16/9/22
+* [Numpy](https://forms.gle/ffVVEtrvs9oG6YQ67) Enviar até dia 16/9/22, assista a [aula assíncrona de Numpy](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mEmqC6rOqyj8AEwWqGC5xs)
 
 ## Aula 2
 
