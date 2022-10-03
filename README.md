@@ -48,10 +48,10 @@ Disciplina Inf494 2022 - Material Prof. Ricardo Ferreira
 
 ### Trabalho
 
-* [Colab - Pode ser feito em grupo de até 3 integrantes - 7 pontos]()
+* [Colab - Pode ser feito em grupo de até 3 integrantes - 6 pontos]()
 ![](https://github.com/arduinoufv/inf494_22/blob/main/Captura%20de%20tela%20de%202022-10-03%2009-40-19.png?raw=true)
 
 ### Questionários
 * [Questionario Base - 5 pontos]()
-* [Questionario Avançado - 3 pontos]()
+* [Questionario Avançado - 4 pontos]()
 
