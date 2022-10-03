@@ -39,9 +39,18 @@ Disciplina Inf494 2022 - Material Prof. Ricardo Ferreira
 ### Slides
 * [Arvores, Random Forest e Boost](https://docs.google.com/presentation/d/1iWLPfsATkAwWrXvUZhKAawJSrzLPt1FPTBigWVWd1TI/edit?usp=sharing)
 
-### Colabs de Exemplos
+### Colabs de Exemplos da disciplina Inf620_22
 
 * [Microbes - 9 Classes - 97% Teste](https://colab.research.google.com/drive/1fyUqqB9BxqElcizy-UIK0ImfizylMqFg?usp=sharing)
-* [Culturas - 10 Classes - 8 Atributos - 96% DT - 100% RF](https://colab.research.google.com/drive/1Rxg2wkZyvmPouydaATpqnjmQaQCwcNrG?usp=sharing), aqui um [outro exemplo do mesmo dataset](https://colab.research.google.com/drive/115H4-3AW54fL7vC3C4YjyzWVs76qR18K?usp=sharing)
+* [Culturas - 10 Classes - 8 Atributos - 96% DT - 100% RF](https://colab.research.google.com/drive/1Rxg2wkZyvmPouydaATpqnjmQaQCwcNrG?usp=sharing), aqui um [outro exemplo do mesmo dataset 98% acc](https://colab.research.google.com/drive/115H4-3AW54fL7vC3C4YjyzWVs76qR18K?usp=sharing)
 * [Wine - DT - 50-60% não balanceado](https://colab.research.google.com/drive/1kGyjFyJbfBPzwGc1ssCX7b2VhkcIoVar?usp=sharing)
+* [Exemplo com 1000 Laptops accuracia 50 a 89](https://colab.research.google.com/drive/1h3wryLegPX4GKdveBEDEY2MFR5PoN7jR?usp=sharing)
+
+### Trabalho
+
+* [Colab - Pode ser feito em grupo de até 3 integrantes - 7 pontos]()
+
+### Questionários
+* [Questionario Base - 5 pontos]()
+* [Questionario Avançado - 3 pontos]()
 
