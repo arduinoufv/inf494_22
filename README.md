@@ -39,6 +39,9 @@ Disciplina Inf494 2022 - Material Prof. Ricardo Ferreira
 ### Slides
 * [Arvores, Random Forest e Boost](https://docs.google.com/presentation/d/1iWLPfsATkAwWrXvUZhKAawJSrzLPt1FPTBigWVWd1TI/edit?usp=sharing)
 
+### Aulas Gravadsa
+* [Árvores, Random Forest, Adaboost, Gradient Boost, XGBoost](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lwBV1_b6op7MozXss1i8xM)
+
 ### Colabs de Exemplos da disciplina Inf620_22
 
 * [Microbes - 9 Classes - 97% Teste](https://colab.research.google.com/drive/1fyUqqB9BxqElcizy-UIK0ImfizylMqFg?usp=sharing)
