@@ -55,6 +55,6 @@ Disciplina Inf494 2022 - Material Prof. Ricardo Ferreira
 ![](https://github.com/arduinoufv/inf494_22/blob/main/Captura%20de%20tela%20de%202022-10-03%2009-40-19.png?raw=true)
 
 ### Questionários
-* [Questionario Base - 5 pontos]()
+* [Questionario Base - 5 pontos](https://github.com/arduinoufv/inf494_22)
 * [Questionario Avançado - 4 pontos]()
 
