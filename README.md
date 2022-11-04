@@ -49,14 +49,14 @@ Disciplina Inf494 2022 - Material Prof. Ricardo Ferreira
 * [Wine - DT - 50-60% não balanceado](https://colab.research.google.com/drive/1kGyjFyJbfBPzwGc1ssCX7b2VhkcIoVar?usp=sharing)
 * [Exemplo com 1000 Laptops accuracia 50 a 89](https://colab.research.google.com/drive/1h3wryLegPX4GKdveBEDEY2MFR5PoN7jR?usp=sharing)
 
-### Trabalho
+### Trabalho - pode enviar até 11/11/22
 
 * [Colab - Pode ser feito em grupo de até 3 integrantes - 6 pontos](https://colab.research.google.com/drive/1jV7RANgjh1oc02UfdAsnGUnxRlj_QkpK?usp=sharing)
 ![](https://github.com/arduinoufv/inf494_22/blob/main/Captura%20de%20tela%20de%202022-10-03%2009-40-19.png?raw=true)
 
 [Link para enviar o trabalho](https://forms.gle/Lhb4Gy91jBbGKQFD7)
 
-### Questionários
+### Questionários enviar até 7/11/2022 (correção aula 9/11)
 * [Questionario Base - 5 pontos](https://forms.gle/NVu5RbHUR8btFStQ9)
 * [Questionario Avançado - 4 pontos](https://forms.gle/Qj8JHmAKpt9eLTyp8)
 
