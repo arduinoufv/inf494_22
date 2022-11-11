@@ -60,3 +60,10 @@ Disciplina Inf494 2022 - Material Prof. Ricardo Ferreira
 * [Questionario Base - 5 pontos](https://forms.gle/NVu5RbHUR8btFStQ9)
 * [Questionario Avançado - 4 pontos](https://forms.gle/Qj8JHmAKpt9eLTyp8)
 
+
+# Aula de Regressão Logística 
+
+* [Playlist de Video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6loWtqCv03BG_tESgrSjbDk)
+* [Slides com links dos Colabs](https://docs.google.com/presentation/d/1G4wtPn_hbDdiNA_5w4appYECv5c9Xh5co_e4qpYzIdc/edit?usp=sharing)
+
+
